@@ -1,0 +1,249 @@
+Array
+(
+    [type] => flex
+    [altText] => Flex Message
+    [contents] => Array
+        (
+            [type] => bubble
+            [direction] => ltr
+            [hero] => Array
+                (
+                    [type] => image
+                    [url] => https://imodtoy.com/wp-content/uploads/2019/09/Thailand-Post_Cover-1200x628.jpg
+                    [size] => full
+                    [aspectRatio] => 16:9
+                    [aspectMode] => cover
+                    [backgroundColor] => #FFFFFF
+                )
+
+            [body] => Array
+                (
+                    [type] => box
+                    [layout] => vertical
+                    [spacing] => md
+                    [contents] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [type] => text
+                                    [text] => เช็คเลขพัสดุ
+                                    [size] => xl
+                                    [align] => center
+                                    [gravity] => center
+                                    [weight] => bold
+                                    [color] => #DF4C4C
+                                    [wrap] => 1
+                                )
+
+                            [1] => Array
+                                (
+                                    [type] => box
+                                    [layout] => vertical
+                                    [spacing] => sm
+                                    [margin] => lg
+                                    [contents] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => box
+                                                    [layout] => baseline
+                                                    [spacing] => sm
+                                                    [contents] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => Track
+                                                                    [flex] => 1
+                                                                    [size] => md
+                                                                    [color] => #AAAAAA
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => ED967523278TH
+                                                                    [flex] => 3
+                                                                    [size] => md
+                                                                    [color] => #666666
+                                                                    [wrap] => 1
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [type] => box
+                                                    [layout] => baseline
+                                                    [spacing] => sm
+                                                    [contents] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => Status
+                                                                    [flex] => 1
+                                                                    [size] => md
+                                                                    [color] => #AAAAAA
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => นำจ่ายสำเร็จ
+                                                                    [flex] => 3
+                                                                    [size] => md
+                                                                    [color] => #666666
+                                                                    [wrap] => 1
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [type] => box
+                                                    [layout] => baseline
+                                                    [spacing] => sm
+                                                    [contents] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => Date
+                                                                    [flex] => 1
+                                                                    [size] => md
+                                                                    [color] => #AAAAAA
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => 17:14:53 16/10/2562
+                                                                    [flex] => 3
+                                                                    [size] => md
+                                                                    [color] => #666666
+                                                                    [wrap] => 1
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [3] => Array
+                                                (
+                                                    [type] => box
+                                                    [layout] => baseline
+                                                    [spacing] => sm
+                                                    [contents] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => Place
+                                                                    [flex] => 1
+                                                                    [size] => md
+                                                                    [color] => #AAAAAA
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => สามเสนใน
+                                                                    [flex] => 3
+                                                                    [size] => sm
+                                                                    [color] => #666666
+                                                                    [wrap] => 1
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [4] => Array
+                                                (
+                                                    [type] => box
+                                                    [layout] => baseline
+                                                    [spacing] => lg
+                                                    [contents] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => Delivery
+                                                                    [flex] => 0
+                                                                    [size] => sm
+                                                                    [color] => #AAAAAA
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => ผู้รับได้รับสิ่งของเรียบร้อยแล้ว
+                                                                    [flex] => 0
+                                                                    [size] => sm
+                                                                    [color] => #666666
+                                                                    [wrap] => 1
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [5] => Array
+                                                (
+                                                    [type] => box
+                                                    [layout] => baseline
+                                                    [spacing] => lg
+                                                    [contents] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => Signature
+                                                                    [flex] => 0
+                                                                    [size] => sm
+                                                                    [color] => #AAAAAA
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [type] => text
+                                                                    [text] => ลายเซ็นผู้รับ
+                                                                    [flex] => 4
+                                                                    [size] => sm
+                                                                    [align] => start
+                                                                    [weight] => bold
+                                                                    [color] => #3F69F0
+                                                                    [action] => Array
+                                                                        (
+                                                                            [type] => uri
+                                                                            [uri] => https://track.thailandpost.co.th/signature/QDIzMjc4YjVzMGx1VDMz/QGI1c0VEMGx1VDMx/QGI1czBsVEh1VDM0/QGI1czBsdTk2NzVUMzI=
+                                                                        )
+
+                                                                    [wrap] => 1
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [6] => Array
+                                                (
+                                                    [type] => spacer
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
